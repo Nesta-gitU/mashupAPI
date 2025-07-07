@@ -1,13 +1,8 @@
 # How to use
 
 ## step 1
-make sure you are in the mashupAPI directory \
-`` 
-cd main 
-``
-``
-cd mashupAPI
-``
+make sure you are in the mashupAPI directory 
+
 
 ## step 2
 We will use docker to run the program. First install docker via the docker website.
